@@ -4,6 +4,5 @@ This repo documents wireframes/mock-ups I worked on during my time at Robert Hal
 What you'll find... 
 
 1. Data Quality
-2. Protiviti Megamenu
-3. Protiviti Homepage Redesign
-4. Salesforce w/components 
+2. Protiviti Megamenu/Homepage Redesign
+3. Salesforce w/components 
