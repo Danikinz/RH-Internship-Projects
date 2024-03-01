@@ -3,15 +3,15 @@ This repo documents wireframes/mock-ups I worked on during my time as a SWE Inte
 **I am not allow to show exact code from the company repos**
 
 **Some of the General Things I Used:**
-WAMP Stack
-Drupal 
-Double Diamond Methodology 
-Atomic Design System 
-Jira
-Git
-Gitlab
-VSC
-Salesforce
+- WAMP Stack
+- Drupal 
+- Double Diamond Methodology 
+- Atomic Design System 
+- Jira
+- Git
+- Gitlab
+- VSC
+- Salesforce
 
 What you'll find... 
 
