@@ -15,7 +15,7 @@ This repo documents wireframes/mock-ups I worked on during my time as a SWE Inte
 
 What you'll find... 
 
-# **Mega-menu Redesign**
+# **Mega-menu Redesign (Main_Nav)**
 While doing my best to adhere to company branding (colors, gradients, typography etc.), I needed to increase visibility as per an accessibility, especially since the company's mega-menu had a plethora of information to convey. 
 
 During this project, I conducted research via Double Diamond methodology. I found that ways of increasing visibility included increasing font size, increasing contrast (AAA standards per the company), and changing margins. I used each of these in conjunction and took note of the company's lightning web components via Salesforce to determine efficient means of implementation. I also learned about screen readers, and found especially during this project that aria-labels would be of increasing importance. 
